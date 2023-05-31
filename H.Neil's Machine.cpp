@@ -7,6 +7,7 @@ int main() {
     int n, ans = 0;
     cin >> n;
     string s, t;
+    cin >> s >> t;
     int last = 0;
     for(int i = 0; i < n; i++){
         int now = s[i] - t[i];
