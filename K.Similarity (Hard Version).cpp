@@ -29,7 +29,7 @@ int main() {
         cout << 'a';
     }
     cout << endl;
-    for(int i = m; i < m; i++) {
+    for(int i = 0; i < m; i++) {
         cout << 'a';
     }
     for(int i = m; i < k; i++) {
